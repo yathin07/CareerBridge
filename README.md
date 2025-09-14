@@ -67,21 +67,16 @@ Version Control: Git
 
 ### 💰 Revenue Model
 
-💵 Commission on project sales
-
-⚡ Percentage-based micro-gig service fee
-
-🎯 Premium job postings for recruiters
-
-📚 Subscription model for roadmaps & certifications
+ Commission on project sales
+ Percentage-based micro-gig service fee
+ Premium job postings for recruiters
+ Subscription model for roadmaps & certifications
 
 ### 📈 Feasibility & Benefits
 
-☁️ Scalable cloud-based infrastructure
-
-🧩 Modular design for expansion
-
-🎨 User-friendly UI with seamless integrations
+ Scalable cloud-based infrastructure
+ Modular design for expansion
+ User-friendly UI with seamless integrations
 
 ✅ All-in-one platform for jobs, projects, gigs, and funding
 ✅ Encourages skill-building with roadmaps
@@ -98,15 +93,14 @@ Sowmya Badoni
 
 Keerthana S
 
-🏫 College: Saveetha Engineering College
+College: Saveetha Engineering College
 
-🏆 Domain: EdTech Innovation Challenge
+Domain: EdTech Innovation Challenge
 
 ### 🔮 Future Plans
 
-🤖 AI-driven advanced career counseling
-
-🔗 Integration with LinkedIn & GitHub APIs
+AI-driven advanced career counseling
+Integration with LinkedIn & GitHub APIs
 
 📱 Mobile App (Android + iOS)
 
@@ -119,6 +113,7 @@ Keerthana S
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
 
 
