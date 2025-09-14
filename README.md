@@ -1,4 +1,4 @@
-## 🌉 Career Bridge
+##  Career Bridge
 
 Bridging Skills to Opportunities – Empowering Students, Empowering Futures!
 Career Bridge is an integrated EdTech platform that connects students’ skills, projects, and innovative ideas with real-world opportunities — including jobs, micro-gigs, and funding.
@@ -119,5 +119,6 @@ Keerthana S
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
 
