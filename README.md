@@ -23,15 +23,11 @@ No unified system exists to directly connect student skills with opportunities.
 
 ### ✨ Key Features
 
-🔍 Personalized Job Matching – Suggestions based on skills.
-
-🛣️ Career Roadmaps – Guidance with certifications & projects.
-
-📂 Project Showcase – Upload, sell, and present academic projects.
-
-⚡ Micro-Gig Platform – Task-based gigs for quick earnings.
-
-💡 Funding & Mentorship – Pitch ideas and connect with mentors/investors.
+Personalized Job Matching – Suggestions based on skills.
+Career Roadmaps – Guidance with certifications & projects.
+Project Showcase – Upload, sell, and present academic projects.
+Micro-Gig Platform – Task-based gigs for quick earnings.
+Funding & Mentorship – Pitch ideas and connect with mentors/investors.
 
 ### 🏗️ Architecture Overview
 
@@ -113,6 +109,7 @@ Integration with LinkedIn & GitHub APIs
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
 
 
