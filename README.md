@@ -1,24 +1,15 @@
-##🌉 Career Bridge
+## 🌉 Career Bridge
 
 Bridging Skills to Opportunities – Empowering Students, Empowering Futures!
-
 Career Bridge is an integrated EdTech platform that connects students’ skills, projects, and innovative ideas with real-world opportunities — including jobs, micro-gigs, and funding.
-
 It empowers students to:
 
-Build personalized career roadmaps
+1.Build personalized career roadmaps
+2.Showcase and monetize academic projects
+3.Find micro-gigs for extra income
+4.Pitch ideas and seek funding & mentorship
 
-Showcase and monetize academic projects
-
-Find micro-gigs for extra income
-
-Pitch ideas and seek funding & mentorship
-
-🌐 Live Website
-
-📂 GitHub Repository
-
-📝 Problem Statement
+### 📝 Problem Statement
 
 Traditional job portals provide limited personalization.
 
@@ -30,7 +21,7 @@ Innovators lack access to funding and mentorship.
 
 No unified system exists to directly connect student skills with opportunities.
 
-✨ Key Features
+### ✨ Key Features
 
 🔍 Personalized Job Matching – Suggestions based on skills.
 
@@ -42,7 +33,7 @@ No unified system exists to directly connect student skills with opportunities.
 
 💡 Funding & Mentorship – Pitch ideas and connect with mentors/investors.
 
-🏗️ Architecture Overview
+### 🏗️ Architecture Overview
 
 Student Profile Creation → Skills input & career path recommendation.
 
@@ -54,7 +45,7 @@ Micro-Gig Platform → Gig posting → Student application → Task completion �
 
 Funding Module → Idea submission → Review → Approval → Mentorship.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend: React.js
 
@@ -74,7 +65,7 @@ Containerization: Docker
 
 Version Control: Git
 
-💰 Revenue Model
+### 💰 Revenue Model
 
 💵 Commission on project sales
 
@@ -84,7 +75,7 @@ Version Control: Git
 
 📚 Subscription model for roadmaps & certifications
 
-📈 Feasibility & Benefits
+### 📈 Feasibility & Benefits
 
 ☁️ Scalable cloud-based infrastructure
 
@@ -97,7 +88,7 @@ Version Control: Git
 ✅ Project monetization boosts motivation
 ✅ Fosters entrepreneurial ecosystem among students
 
-👨‍💻 Team Maverick
+### 👨‍💻 Team Maverick
 
 Arjun N S
 
@@ -110,7 +101,7 @@ Keerthana S
 🏫 College: Saveetha Engineering College
 🏆 Domain: EdTech Innovation Challenge
 
-🔮 Future Plans
+### 🔮 Future Plans
 
 🤖 AI-driven advanced career counseling
 
@@ -120,10 +111,11 @@ Keerthana S
 
 📊 Enhanced analytics for students & recruiters
 
-🔗 Useful Links
+### 🔗 Useful Links
 
 🌐 Live Demo
 
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
