@@ -99,6 +99,7 @@ Sowmya Badoni
 Keerthana S
 
 🏫 College: Saveetha Engineering College
+
 🏆 Domain: EdTech Innovation Challenge
 
 ### 🔮 Future Plans
@@ -118,4 +119,5 @@ Keerthana S
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
