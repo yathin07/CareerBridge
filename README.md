@@ -75,8 +75,11 @@ Version Control: Git
  User-friendly UI with seamless integrations
 
 ✅ All-in-one platform for jobs, projects, gigs, and funding
+
 ✅ Encourages skill-building with roadmaps
+
 ✅ Project monetization boosts motivation
+
 ✅ Fosters entrepreneurial ecosystem among students
 
 ### 👨‍💻 Team Maverick
@@ -109,6 +112,7 @@ Integration with LinkedIn & GitHub APIs
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
 
 
