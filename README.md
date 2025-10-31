@@ -88,6 +88,8 @@ Arjun N S
 
 Yathin Reddy
 
+Shivaa Palaniyappan v
+
 Sowmya Badoni
 
 Keerthana S
@@ -112,6 +114,7 @@ Integration with LinkedIn & GitHub APIs
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
 
 
