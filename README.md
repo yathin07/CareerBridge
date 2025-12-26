@@ -82,21 +82,6 @@ Version Control: Git
 
 ✅ Fosters entrepreneurial ecosystem among students
 
-### 👨‍💻 Team Maverick
-
-Arjun N S
-
-Yathin Reddy
-
-Shivaa Palaniyappan V
-
-Sowmya Badoni
-
-Keerthana S
-
-College: Saveetha Engineering College
-
-Domain: EdTech Innovation Challenge
 
 ### 🔮 Future Plans
 
@@ -114,6 +99,7 @@ Integration with LinkedIn & GitHub APIs
 📂 GitHub Repository
 
 ✨ Career Bridge – Empowering Students, Empowering Futures! ✨
+
 
 
 
